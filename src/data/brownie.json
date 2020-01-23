@@ -1,0 +1,7 @@
+{
+  "nom": "Brownie",
+  "description": "Un brownie est un personnage du folklore écossais. Génie domestique sympathique et travailleur, il effectue les tâches ménagères de la famille chez qui il s'est installé en échange d'un repas ou de la liberté de se balancer sur un fer à cheval accroché à côté de la cheminée.",
+  "id": "brownie",
+  "image": "https://static.blog4ever.com/2014/06/776322/artfichier_776322_3875088_20140626372983.jpg",
+  "pouvoirs": ["whist", "menage", "échecs", "porte chance"]
+}

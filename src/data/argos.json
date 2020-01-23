@@ -1,0 +1,7 @@
+{
+  "nom": "Argos",
+  "description": " Argos (en grec ancien Ἄργος) fils d'Arestor et de Mycène (ou du dieu fleuve Inachos, ou d'Argos, fils de Zeus ou de Gaïa selon les versions), est un Géant.",
+  "id": "argos",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Jordaens-mercure.jpg/1024px-Jordaens-mercure.jpg",
+  "pouvoir": ["vue multiple", "mange de la chair humaine", "attaquer"]
+}

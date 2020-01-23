@@ -1,0 +1,7 @@
+{
+  "nom": "Fairy",
+  "description": "A cute little girl with wings",
+  "id": "fairy",
+  "image": "https://www.vippng.com/png/detail/134-1341722_fairy-realistic-transparent-fairy.png",
+  "pouvoirs": ["Flying", "Giggling", "Playing Tricks", "Scolding", "Pouting"]
+}

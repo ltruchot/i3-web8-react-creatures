@@ -1,0 +1,7 @@
+{
+  "nom": "Djinn",
+  "descrition": "Les djinns (arabe : جِنّ ǧinn, singulier جِنّي ǧinnī ; parfois transcrit dgin ou jinn) sont des créatures surnaturelles, issues des croyances païennes de l’Arabie préislamique. Ils sont en général invisibles, et peuvent prendre différentes formes (végétale, animale, ou anthropomorphe). Ils sont capables d'influencer spirituellement et mentalement le genre humain (contrôle psychique : possession), mais n'utilisent pas forcément ce pouvoir. Il ne faut pas confondre le terme djinn (جِنّ [ğinn]) avec le terme perse Djans (جان [ğān]) qui signifie « l’esprit individuel d'un être », et qui est différent des Esprits de Groupe (روح [rūḥ]), terme d'origine sémitique (רוח [rox]).",
+  "id": "djinn",
+  "image": "https://www.pathfinder-fr.org/wiki/public/upload/Bestiaire/Djinn_Genie.jpg",
+  "pouvoirs": ["possession", "invisibilité"]
+}

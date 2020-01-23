@@ -1,0 +1,7 @@
+{
+  "nom": "Basilic",
+  "description": "Le basilic est une bête légendaire, souvent présenté comme un reptile, mentionné dès l'antiquité gréco-romaine comme étant un petit serpent au venin et au regard mortels. Durant le Moyen Âge, il fut plus souvent décrit comme un mélange de coq et de serpent et fut l'objet d'importantes superstitions, tant sur ses origines que sur ses pouvoirs d'empoisonnement et de pétrification. Très proche de la cocatrix, le basilic apparaît dans de nombreux bestiaires et des encyclopédies avant de devenir, à l'époque contemporaine, une créature figurant dans de nombreux jeux de rôle. ",
+  "id": "basilic",
+  "image": "https://fr.wikipedia.org/wiki/Basilic_(mythologie)#/media/Fichier:Basilisk_aldrovandi.jpg",
+  "pouvoirs": ["empoisonnement", "petrification"]
+}

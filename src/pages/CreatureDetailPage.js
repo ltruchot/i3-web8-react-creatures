@@ -14,7 +14,14 @@ const CreatureDetailPage = ({ id }) => {
 
   return (
     <div>
-      {creature && creature.nom }
+      <h1 style={{display: "flex"}}>
+        <div><img style={{width: "100px", borderRadius: "100px"}} src={creature && creature.image} /></div>
+        <div>{creature && creature.nom }</div> 
+      </h1>
+      <p>{creature && creature.description }</p>
+      <ol>
+        {creature?.pouvoirs?.map((p) => <li>{p}</li>)}
+      </ol>
     </div>
   );
 };

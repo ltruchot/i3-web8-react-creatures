@@ -1,0 +1,7 @@
+{
+  "nom": "Frankenstein",
+  "description": "Le monstre de Frankenstein ou la créature de Frankenstein est un personnage de fiction qui apparait pour la première fois dans le roman de Mary Shelley, Frankenstein ou le Prométhée moderne, Chez Shelley, il s'agit d'un être, également artificiel, créé par le savant Victor Frankenstein à l'aide d'un assemblage de cadavres ramenés ensuite à la vie",
+  "id": "frankenstein",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Frankenstein%27s_monster_%28Boris_Karloff%29.jpg/800px-Frankenstein%27s_monster_%28Boris_Karloff%29.jpg(107 ko)",
+  "pouvoirs": ["faire peur", "immortalité"]
+}

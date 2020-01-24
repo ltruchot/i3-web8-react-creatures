@@ -1,0 +1,15 @@
+{
+  "nom": "Myrtille",
+  "description": "Chat tigré, machine à ronrons",
+  "id": "myrtille",
+  "image": "https://labmap.files.wordpress.com/2016/05/chat_31.jpg",
+  "pouvoirs": [
+    "ronron",
+    "miauler",
+    "griffer",
+    "réveiller maître",
+    "manger beaucoup",
+    "attaquer soouris-peluches",
+    "dormir 20h/j"
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  { "nom": "Brownie", "id": "brownie" },
+  { "nom": "Fairy", "id": "fairy" },
+  { "nom": "Myrtille", "id": "myrtille" },
+  {
+    "nom": "Basilic",
+
+    "id": "basilic"
+  },
+  {
+    "nom": "Argos",
+    "id": "argos"
+  },
+  {
+    "nom": "Djinn",
+    "id": "djinn"
+  },
+  {
+    "nom": "Elfe",
+    "id": "elfe"
+  },
+  {
+    "nom": "Frankenstein",
+    "id": "frankenstein"
+  }
+]
